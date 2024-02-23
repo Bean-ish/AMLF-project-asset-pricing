@@ -1,13 +1,13 @@
-# AMLF_projects
 
-Data: Gather 500 stocks data for 60 years containing 20 features (stock characteristics, industry sector variables, etc.)
+## Dat
+Gather 500 stocks data for 60 years containing 20 features (stock characteristics, industry sector variables, etc.)
 
-## Model Selecting:
+## Model Selecting
 Model 1: Linear model (Enet)
 Model 2: RF/SVM
 Model 3: Neural network
 
-## Timeline:
+## Timeline
 ### Week 6
 Gather data
 Prepare data (necessary cleaning, create responses) & EDA (basic stat, etc.)
