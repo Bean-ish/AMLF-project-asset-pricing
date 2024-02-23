@@ -1,6 +1,6 @@
 
 ## Data
-Gather 500 stocks data for 60 years containing 20 features (stock characteristics, industry sector variables, etc.)
+500 stocks data containing 20 features from 2001 to 2019
 
 ## Model Selecting
 - Model 1: Linear model (Enet)
