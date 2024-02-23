@@ -1,5 +1,5 @@
 
-## Dat
+## Data
 Gather 500 stocks data for 60 years containing 20 features (stock characteristics, industry sector variables, etc.)
 
 ## Model Selecting
